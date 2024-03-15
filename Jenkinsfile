@@ -3,7 +3,7 @@ pipeline {
   environment {
         IMAGE_REPO_NAME="frontend_angular"
         IMAGE_TAG="v1"
-        AWS_DEFAULT_REGION="eu-west-2"
+        AWS_DEFAULT_REGION="eu-west-3"
         AWS_ACCOUNT_ID="992382586240"
         REPOSITORY_URI="992382586240.dkr.ecr.eu-west-2.amazonaws.com/frontend_angular"
   }
